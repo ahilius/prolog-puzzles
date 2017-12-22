@@ -1,0 +1,36 @@
+% 	Square Numbers
+% 
+% Logic Problems Issue 20 page 22
+% 
+% The squares below contain the numbers 1 to 9 arranged in random order.
+% From the clues given below, can you enter the correct number 
+% in each square?
+% 
+% 
+% Clues
+% 
+% 1    Column A contains no odd digits.
+% 2    Square C3 minus square C2 equals 4.
+% 3    The three digits in row 1 total 17.
+% 4    Number 7 is in column B; its left-hand neighbour is not 4.
+% 5    The digits of column C add up to 14.
+% 6    2 is not in the same horizontal row as 8, and 9 is not 
+%      immediately below 3.
+% 
+% 	     A	     B        C	
+% 	+--------+--------+--------+
+% 	|        |        |        |
+%     1	|        |        |        |
+% 	|        |        |        |
+% 	+--------+--------+--------+
+% 	|        |        |        |
+%     2	|        |        |        |
+% 	|        |        |        |
+% 	+--------+--------+--------+
+% 	|        |        |        |
+%     3	|        |        |        |
+% 	|        |        |        |
+% 	+--------+--------+--------+
+%
+% Hint: remember that an arthimetic error occurs if the variables are not
+%	bound to a value before the operations are attempted.

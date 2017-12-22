@@ -1,0 +1,46 @@
+% 
+%                         FLATMATES
+%
+%	Logic Problems, Issue 10, page 35.
+% 
+% Six people live in a three-storey block of studio flats laid out as in the 
+% plan. From the clues given, work out the name and situation of the resident
+% of each flat.
+% 
+%                     +-------------------+
+%                     | Flat 5 | | Flat 6 |
+%                     |--------| |--------|
+%                     | Flat 3 | | Flat 4 |
+%                     |--------| |--------|
+%                     | Flat 1 | | Flat 2 |
+%                     +-------------------+
+% 
+%
+% 1. Ivor and the photographer live on the same floor.
+%
+% 2. Edwina lives immediately above the medical student.
+%
+% 3. Patrick, who is studying law, lives immediately above Ivor,
+%    and opposite the air hostess.
+%
+% 4. Flat 4 is the home of the store detective.
+%
+% 5. Doris lives in Flat 2.
+%
+% 6. Rodney and Rosemary are 2 of the residents in the block of flats.
+%
+% 7. One of the residents is a clerk.
+% 
+% Residents:   Doris, Edwina, Ivor, Patrick, Rodney, Rosemary.
+% Professions: air hostess, clerk, law student, medical student,
+%              photographer, store detective.
+% 
+% 
+male(ivor).
+male(patrick).
+male(rodney).
+%
+female(doris).
+female(edwina).
+female(rosemary).
+

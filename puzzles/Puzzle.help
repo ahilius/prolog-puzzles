@@ -1,0 +1,46 @@
+The way in which to appraoch these questions are
+
+i)	Read the whole question noting the information you are required
+to find out.
+
+ii)	Decide on what your data structure (usually a list of something)
+is going to be and what order things are going to be in that data structure.
+If there is a number or numeric attribute usually you will order on this
+and have that determining your order in the list. (ie sizes, ages, order found,
+number of lessons etc)
+
+iii)	Next we start to write the puzzle
+we start with the predicate to be called to run the puzzle
+ie
+	puzzle(List) :-
+		List = [_, _, _, _, _]
+and say what our list is.  If we have ages, sizes etc to set our
+order in the list then we would have defined them in the declaration of the
+List ie List = [[10|_], [12|_], ...]
+
+iv)	We know look at each clue in turn and write something for that
+clue which will make that vlue be satisfied.  It may have to be on 
+backtrcking.  Note that if it has something not equal then we have to 
+insert the not equal to into the list first and then test for non 
+equalivance.  
+
+v)	Read the question/ clue correctly.  This also means that you have to
+understand how your data structure is set up ie are the smaller ages
+first or last so as to get appears_before, next_to, rightof etc 
+working correctly.  Also do not assume that if something says ellen is the 
+largest size (18) and we know that this is the last place then write 
+out
+	List = [_, _, _, _, [18, ellen|_]],
+
+use the member predicate that would look like this.
+
+member([18, ellen, _, _], List),
+
+the effect is the same but you are not forcing your exact
+knowledge of the data structure onto prolog.
+
+All in all let prolog do the thinking.  You just give it the
+constraints by which the puzzle must satisfy and prolog
+will do the rest and the thinking.
+
+Also write general predicates.

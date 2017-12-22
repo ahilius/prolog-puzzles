@@ -1,0 +1,50 @@
+%		P R E F E C T   D U T Y
+%		_______________________
+%
+%Logic Problems Issue 21 page 33
+%
+%Many years ago when Father was at school, he was one of the nine prefects who
+%were allocated each week to a duty in a different area of the school building
+%or grounds. recently, whilst searching through some of his mementos, he came
+%across the duty list for one particular week. From the clues given below, can
+%you fill in on the roster the prefect's name and the duty area corresponding to
+%each of the nine numbered positions?
+%
+%Clues:
+%1. Fenwick was three lower down the list than the prefect on duty by the main door.
+%2. Gubbins was two places above Iveson, who was not assigned to the side door,
+%   which was not the last duty listed.
+%3. Archer was listed in an even-numbered position.
+%4. Collins was on duty in the bicycle shed; Earle's name was next to be listed
+%   after his.
+%5. The prefect on duty in the bottom corridor was five above Dukes on the roster.
+%6. Henshaw's name appeared at number 8; the name just above his contained
+%   an even number of letters.
+%7. The number 1 duty was not assigned to either Gubbins or Beaumont; the duty
+%   by the toilets did not have an odd number.
+%8. The playground duty was number 6 on the list.
+%9. Beaumont's name was immediately above that of the prefect responsible for
+%   the games field.
+%10.The two corridor duties were not listed consecutively.
+%11.One of the duty areas was the cloakroom.
+%
+%          Prefect   Duty Area
+%   ---------------------------
+%   |  1 |         |          |
+%   ---------------------------
+%   |  2 |         |          |
+%   ---------------------------
+%   |  3 |         |          |
+%   ---------------------------
+%   |  4 |         |          |
+%   ---------------------------
+%   |  5 |         |          |
+%   ---------------------------
+%   |  6 |         |          |
+%   ---------------------------
+%   |  7 |         |          |
+%   ---------------------------
+%   |  8 |         |          |
+%   ---------------------------
+%   |  9 |         |          |
+%   ---------------------------

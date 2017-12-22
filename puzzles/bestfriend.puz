@@ -1,0 +1,46 @@
+% A GIRL'S BEST FRIEND
+%
+%	Logic Problems, Issue 24, Page 33
+% 
+% Grandpa made a rug for his granddaughter's bedroom. His pattern had nine
+% different-coloured diamonds in three rows, each row being on different-
+% coloured backgrounds, white, black and grey. From the clues given below,
+% can you work out the colour of each diamond?
+% 
+% Clues
+% 
+% 1. The purple diamond, which was not on a white background, was immediately
+% to the left of the orange patch, one point of which touched a point of
+% the beige patch.
+% 
+% 2. The red and the pink diamonds were at diagonally opposite corners;
+% one of them had a point touching the yellow.
+% 
+% 3. The green diamond was in position  5 on the rug.
+% 
+% 4. The blue diamond, which touched the yellow patch, did not have the same
+% background colour as the pink, which did not touch the brown.
+% 
+% Colours : beige, blue, brown, green, orange, pink, purple, red, yellow.
+% 
+% 
+%
+%	+---------------+---------------+---------------+
+%	|	1	|	2	|	3	|
+%	|		|		|		|
+%	|     White	|    White	|    White	|
+%	|		|		|		|
+%	+---------------+---------------+---------------+
+%	|	4	|	5	|	6	|
+%	|		|		|		|
+%	|     Black	|    Black	|    Black	|
+%	|		|		|		|
+%	+---------------+---------------+---------------+
+%	|	7	|	8	|	9	|
+%	|		|		|		|
+%	|     Grey	|    Grey	|    Grey	|
+%	|		|		|		|
+%	+---------------+---------------+---------------+
+%
+diag_corners(1, 9).
+diag_corners(3, 7).

@@ -1,0 +1,107 @@
+%                      STAR CHART
+%
+% Logic Problems, Issue 24, page 16.
+% 
+% As part of the astrological forecasting system, Susie (who lives in England)
+% drew a chart illustrating the twelve signs of the zodiac in random order in
+% three rows of four, as shown in the diagram. Incorporated in the design was
+% a self-portrait and the portraits of eleven of her friends, each in the 
+% section appropriate to his or her birth sign. From the clues given below,
+% insert the correct sign of the zodiac and name in each of the numbered
+% squares in the diagram.
+%
+% 
+% 1. Carrie's portrait is horizontally between the Libra and Scorpio designs, 
+%    the latter of which is not in square 5.
+%
+%
+% 2. The portrait of Fay, who was born under Aquarius, is an even-numbered
+%    square in the same vertical column as, and immediately below, the Leo design.
+%
+%
+% 3. Mandy, who was born under a summer sign, as was Philip, has her portrait
+%    in one of the corner squares 
+%
+%
+% 4. Adam's portrait is immediately above Alan's which is just to the left
+%    of the Taurus design, which incorporates a man's portrait.
+%
+%
+% 5. The design of Pamela, who is not an Aries, is in square 10.
+%
+%
+% 6. The Sagittarian's portrait is two squares to the left of Joy's, in the
+%    same row.
+%
+%
+% 7. Square 2 depicts the Gemini design, also on the top 
+%    row are both Joy's and Susie's portraits.
+%
+%
+% 8. Roy's portrait is in the row below Neil's (which is not in the same row
+%    as Tony's) and somewhere to his left.
+%
+%
+% 9. The Virgo design is in the square immediately to the left of Tony's 
+%    portrait and in the same vertical column as the Capricorn design.
+% 
+%
+% 10. Two women and two men are featured in each of the horizontal rows.
+%
+%
+% 11. The other two star signs are Cancer and Pisces
+%
+%
+% Names: Adam, Alan, Carrie, Fay, Joy, Mandy, 
+%        Neil, Pamela, Philip, Roy, Susie, Tony.
+% Spring signs: Aries, Taurus, Gemini.
+% Summer signs: Cancer, Virgo, Leo
+% Autumn signs: Libra, Scorpio, Sagittarius
+% Winter signs: Capricorn, Aquarius, Pisces
+% 
+%                   TOP
+%                   +-------------------+
+%                   |  1 |  2 |  3 |  4 |
+%                   |----|----|----|----|
+%                   |  5 |  6 |  7 |  8 |
+%                   |----|----|----|----|
+%                   |  9 | 10 | 11 | 12 |
+%                   +-------------------+
+%                   BOTTOM
+% 
+% 
+male(adam).
+male(alan).
+male(neil).
+male(philip).
+male(roy).
+male(tony).
+%
+female(carrie).
+female(fay).
+female(joy).
+female(mandy).
+female(pamela).
+female(susie).
+%
+springsign(aries).
+springsign(taurus).
+springsign(gemini).
+%
+summersign(cancer).
+summersign(leo).
+summersign(virgo).
+%
+autumnsign(libra).
+autumnsign(scorpio).
+autumnsign(sagittarius).
+%
+wintersign(capricorn).
+wintersign(aquarius).
+wintersign(pisces).
+%
+cornersquare(1).
+cornersquare(4).
+cornersquare(9).
+cornersquare(12).
+%

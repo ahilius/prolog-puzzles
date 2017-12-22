@@ -1,0 +1,47 @@
+% 			 Pecking Order
+%
+%% Logic Problems Issue 18 page 34
+%  
+%  It quickly became a nightly ritual for Snow White to kiss each of 
+%  the seven dwarfs goodnight and tuck him up in bed.  Each dwarf wore 
+%  a distinctively-coloured nightcap and had distinctively-coloured 
+%  blankets.  The order in which they were kissed goodnight also become 
+%  a tradition.  From the clues given, can you give the order they 
+%  were kissed, together with the colour of his nightcap and 
+%  his blankets?
+%  
+%  1.  Grumpy made life so unpleasant for everyone if he wasn't kissed 
+%  first that this soon became his established position.
+%  
+%  2.  Bashful had a green nightcap and Dopey had blue blankets; 
+%  the former was kissed immediately before the later each night.
+%
+%  3.  Happy came three after the dwarf with the brown nightcap in the 
+%  'pecking order'
+%  
+%  4.  Sneezy, who was not second in line, always received his kiss 
+%  two before the dwarf with the green blankets, whose nightcap 
+%  was not red.
+%
+%  5.  The fourth kiss was always bestowed on the little face beneath 
+%  the white nightcap, but the fifth's dwarf's nightcap was not pink.
+%
+%  6.  The yellow blankets covered the recumbent form of the recipient 
+%  of Snow White's penultimate goodnight kiss.
+%
+%  7.  The dwarf with the brown blankets wore a yellow nightcap, this 
+%  was not sneezy.
+%
+%  8.  Doc had an even position in the kissing order.
+%
+%  9.  If sleepy had had to wait until the last three turns he would 
+%  never have stayed awake for his kiss; his blankets were not red.
+%  
+%  10.  The pink blankets were not used by either the dwarf with the 
+%  white nightcap or the second to be kissed goodnight.
+%
+%  11.  Some dwarf had a blue nightcap; while another had white blankets
+%
+%  12.  It was very confusing that no one had blankets whose 
+%  colour matched that of his nightcap.
+%

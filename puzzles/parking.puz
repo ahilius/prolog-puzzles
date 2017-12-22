@@ -1,0 +1,44 @@
+% 
+%                         PARKING PARTNERS
+%
+%	Logic Problems, Issue 19, page 31.
+% 
+% The six partners in a two-family firm, Simms and Timms, park their cars
+% in a private car park (see below). Three of them are Simms and three are
+% Timms. From the information, discover who parks where and what
+% responsibility each has in the firm.
+%
+%            +--------+---------+--------+
+%            |        |         |        |
+%            |   1    |    2    |   3    |
+%            |        |         |        |
+%            |
+%     Left   |                                 Right
+%            |        |         |        |
+%            |   4    |    5    |   6    |
+%            |        |         |        |
+%            +--------+---------+--------+
+%
+% 1. The Accountant's car is parked between two others, unlike the
+%    Marketing Director, who parks opposite T J Simms, whose place
+%    is not on the extreme right.
+%
+% 2. A E Simms parks opposite the Company Secretary, whose place is 
+%    on the immediate left of that of L G Timms.
+%
+% 3. D P Timms and the Managing Director have even numbered spaces.
+%
+% 4. The Personnel Director's car is to be see on the immediate right 
+%    of that of R N Timms.
+%
+% 5. The Sales Director is a Simms. The Managing Director is the father
+%    of the accountant.
+%
+% 6. No two partners with the same name park opposite each other.
+%
+%
+% Partners:         A E Simms, C F Simms, T J Simms,
+%                   D P Timms, L G Timms, R N Timms
+% Responsibilities: Accountant, Company Secretary, Managing Director,
+%                   Marketing Director, Personnel Director, Sales Director
+%

@@ -1,0 +1,58 @@
+%		S I G N I N G   O N
+%		___________________
+%
+% Logic Problems Issue 16 page 46
+%
+%On one page of the visitor's book at Sandholme Castle, seat of the Duke of
+%Wallingfen, were the names of ten couples from various locations in the
+%English-speaking world who had paid to look round the ancestral pile.
+%From the clues given below, can you fill in the blank page of the book with
+%the surnames and home-towns of each couple?
+%
+%Clues:
+%1. The Drummonds are from Edinburgh; their name appears on the line above the
+%   Jones family, who were not the last couple to sign the page. 
+%2. Mr and Mrs Ince's signatures are immediately followed by those of the London couple.
+%3. The couple on line 3 gave a North American address; their surname contains
+%   two more letters than that of the Portsmouth pair and three more than that
+%   of the couple on line 9.
+%4. Only one couple's surname initial immediately preceeds that of the next
+%  family to sign; they are not the Childers family, whose name appears on line 5
+%   and who do not live in Melbourne.
+%5. Bristol is the address on the line above Durban; one of these cities is the
+%   home of the Adams family.
+%6. The Los Angeles couple signed on line 8; their surname contains an even
+%   number of letters.
+%7. Mr and Mrs Fellowes, who are not transatlantic visitors, wrote their name on
+%   an odd-numbered line, unlike the couple from Wellington.
+%8. The Toronto family's name immediately follows that of the Harringtons, who
+%   are not from Washington.
+%9. Mr and Mrs Bourne signed on the lower half of the page, whilst the Giles
+%   family, who did not sign on line 6, are not resident in the U.K.
+%
+%London, Edinburgh, Bristol and Portsmouth are all in the U.K. Durban is in
+%South Africa. Los Angeles and Washington (D.C.) are in the U.S.A. Toronto is in
+%Canada. Wellington is in NewZealand. And of course, Melbourne is in Australia.
+
+ 
+letters(adams,5).
+letters(bourne,6).
+letters(childers,8).
+letters(drummond,8).
+letters(edwards,7).
+letters(fellowes,8).
+letters(giles,5).
+letters(harrington,10).
+letters(ince,4).
+letters(jones,5).
+ 
+precedes(adams,bourne).
+precedes(bourne,childers).
+precedes(childers,drummond).
+precedes(drummond,edwards).
+precedes(edwards,fellowes).
+precedes(fellowes,giles).
+precedes(giles,harrington).
+precedes(harrington,ince).
+precedes(ince,jones).
+

@@ -1,0 +1,77 @@
+%                   NOVEL ARRANGEMENT
+%
+%	Logic Problems, Issue 10, page 51
+% 
+% A man who owned a lot of books, but read very few, acquired a new bookcase, 
+% on the four shelves of which he decided to put the novels of sixteen authors,
+% four to each shelf. Each author was allotted exactly the same space, so that
+% the more prolific ones were represented by a sample of their novels. From the
+% information given below, discover which space, as numbered on the diagram,
+% he allocated to each author.
+% 
+%
+% 1. Hemingway and Hardy were on the extreme left of their rows.
+%
+%
+% 2. The works of Virginia Woolf were as far removed as possible from those
+%    of D H Lawrence. (Hint: diagonally opposite corners)
+%
+%
+% 3. Graham Greene was directly flanked horizontally by Jane Austen and Arnold
+%    Bennett and vertically by Mrs Gaskell and Trollope.
+%
+%
+% 4. Dickens was to the immediate left of R L Stevenson.
+%
+%
+% 5. Scott had Mark Twain immediately above him and Iris Murdoch immediately
+%    below. Jane Austen was in the same vertical column as Thackeray, but on
+%    a higher shelf.
+%
+%
+% 6. With the two American novelists, one appears on shelf 1 and the other on shelf 3 
+%
+%
+% 7. None of the four women novelists appeared on the top shelf.
+%
+%
+% 8. When all the named authors have been fitted into their spaces, there
+%    will be one space left for Lawrence Durrell.
+%
+% 
+%                     +-------------------+
+%            shelf 1  |  1 |  2 |  3 |  4 |
+%                     |----|----|----|----|
+%            shelf 2  |  5 |  6 |  7 |  8 |
+%                     |----|----|----|----|
+%            shelf 3  |  9 | 10 | 11 | 12 |
+%                     |----|----|----|----|
+%            shelf 4  | 13 | 14 | 15 | 16 |
+%                     +-------------------+
+% 
+% 
+% 
+male(hemingway).
+male(hardy).
+male(d_h_lawerence).
+male(scott).
+male(mark_twain).
+male(graham_greene).
+male(arnold_bennett).
+male(lawrence_durrell).
+male(r_l_steveson).
+male(trollope).
+male(thackeray).
+male(dickens).
+%
+female(virginia_woolf).
+female(jane_austen).
+female(iris_murdoch).
+female(mrs_gaskell).
+%
+diag_opp(1, 16).
+diag_opp(4, 13).
+%
+american(mark_twain).
+american(hemingway).
+%

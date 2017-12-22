@@ -1,0 +1,69 @@
+%               T A K E O V E R      B I D S
+%               ============================
+%
+% Logic Problems, Issue 16, p.24
+%
+% At the school sports day, the final event was the 4x100 metres
+% delay, keenly contested by teams from the four houses, known
+% by their respective colours. From the clues given below, 
+% can you work out which lane was occupied by which team, 
+% and fill in the names of all four runners representing 
+% each house at the appropriate point on the plan of the course?
+% Can you also fill in the full result of the race?
+%
+% Clues:
+% 1 The blues were drawn in the next lane inside the reds;
+%   the former team did not include Fowler, who ran the final leg.
+% 2 Kent received the baton in lane 3 at takeover point 1,
+%   where Solway also waited.
+% 3 The green team included, in running order, though not in
+%   consecutive legs, Ledger and French; they did not run in lane 2.
+% 4 Sanderson and Baker waited for the baton at the same takeover point.
+% 5 Ryan, who had Knowles as his neighbour in the next lane,
+%   ran the first leg for the yellows in an odd-numbered lane;
+%   they eventually finished third.
+% 6 Burrows handed the baton to Wilson at takeover point 2, where
+%   Kendall waited in the inside lane.
+% 7 Prentice narrowly beat Thomas, who ran in lane 3,
+%   to win the race for his team.
+% 8 Archer, who was a team-mate of Baker's, ran the same leg
+%   as Brown, who had a higher lane number.
+%
+%
+%
+%                   Takeover 2                                    Takeover 1
+%  ________________________________________________________________________
+%  |                     |                                               /|
+%  |  __________________________________________________________________/ |
+%  |  |                  |                                            /|  |
+%  |  |  ____________________________________________________________/ |  |
+%  |  |  |               |                                         /|  |  |
+%  |  |  |  ______________________________________________________/ |  |  |
+%  |  |  |  |            |                                      /|  |  |  |
+%  |  |  |  |  ________________________________________________/ |  |  |  |
+%  |  |  |  |  |                                              |  |  |  |  |
+%  |  |  |  |  |                                              |  |  |  |  |
+%  |  |  |  |  |                            Start ->          |  |  |  |  |
+%  |  |  |  |  |______________________________________________|  |  |  |  |
+%  |  |  |  | /                             Lane 1 |             |  |  |  |
+%  |  |  |  |/___________________________________________________|  |  |  |
+%  |  |  | /                                Lane 2 |                |  |  |
+%  |  |  |/_________________________________________________________|  |  |
+%  |  | /                                   Lane 3 |                   |  |
+%  |  |/_______________________________________________________________|  |
+%  | /                                      Lane 4 |                      |
+%  |/_____________________________________________________________________|
+%  Takeover 3                             -> Finish
+%
+%
+%                    Team Members      Colour   Lane
+%  ___________________________________________________
+%  | 1st       |                     |        |      |
+%  |___________|_____________________|________|______|
+%  | 2nd       |                     |        |      |
+%  |___________|_____________________|________|______|
+%  | 3rd       |                     |        |      |
+%  |___________|_____________________|________|______|
+%  | 4th       |                     |        |      |
+%  |___________|_____________________|________|______|
+%

@@ -1,0 +1,32 @@
+%		O N  T H E  S H E L F
+%		_____________________
+%
+%Five children each have their favourite amongst the tinned foods stacked on
+%the bottom shelf of their mother's pantry. From the clues given below, can you
+%discover the contents and manufacturer's name on the label of each tin and say
+%whose preference it is?
+%
+%Clues:
+%1) Danny's favourite is in a tin at one end of the shelf; it is not chicken
+%   curry, which is not made by Williams.
+%2) The tin of Jones spaghetti stands next to Philip's choice, which is not
+%   in an even-numbered tin.
+%3) Jenny's great love is baked beans; the tin containing them is further to
+%   the left on the shelf than Clive's preference.
+%4) The ravioli is in the tin numbered 4 in the diagram.
+%5) Kate's favourite snack is made by Roberts.
+%6) The name 'Smiths' appears on the tin at the left-hand end of the shelf.
+%
+%Children: Clive, Danny, Jenny, Kate, Philip.
+%Manufacturers: Bloggs, Jones, Roberts, Smiths, Williams.
+%Foods: baked beans, chicken curry, ravioli, spaghetti, tomato soup.
+%
+%              -----    -----    -----    -----    -----       
+%              |   |    |   |    |   |    |   |    |   |
+%Tin no:       | 1 |    | 2 |    | 3 |    | 4 |    | 5 |
+%              |   |    |   |    |   |    |   |    |   |
+%              -----    -----    -----    -----    -----       
+%
+%Children:     _____    _____    _____    _____    _____
+%Manufacturer: _____    _____    _____    _____    _____
+%Foods:        _____    _____    _____    _____    _____

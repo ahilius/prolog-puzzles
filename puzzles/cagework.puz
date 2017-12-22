@@ -1,0 +1,41 @@
+%
+% 		C A G E W O R K
+% 		_______________
+% 
+%  Logic Problems Issue 10 page 44
+% 
+% There are nine cages in the local zoo, in the positions shown below. From the
+% clues given below, can you state which animal is in which cage? Throughout
+% the clues, east means due east, north-west means due north-west etc.
+% 
+% Animals:	ape, bear, camel, elephant, giraffe, hippopotamus, lion
+%		rhinoceros, tiger.
+%
+% Clues:
+% 1. The lion is north of the bear, but south of the hippopotamus.
+% 2. The ape is west of the tiger.
+% 3. The giraffe is south-east of the camel.
+% 4. The rhinoceros is east of the lion.
+% 5. The elephant is south-west of the rhinoceros.
+% 
+%	North
+%
+% ----------	----------	-----------
+% |        |     |        |      |         |
+% |    1   |     |    2   |      |    3    |
+% |        |     |        |      |         |
+% ----------	----------	-----------
+% 
+% ----------	----------	-----------
+% |        |     |        |      |         |
+% |    4   |     |    5   |      |    6    |  East
+% |        |     |        |      |         |
+% ----------	----------	-----------
+% 
+% ----------	----------	-----------
+% |        |     |        |      |         |
+% |    7   |     |    8   |      |    9    |
+% |        |     |        |      |         |
+% ----------	----------	-----------
+%
+%	South

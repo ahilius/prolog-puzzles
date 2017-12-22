@@ -1,0 +1,82 @@
+% LETTERS PLAY
+%
+%	Logic Problems, Issue 21, Page 45
+% 
+% Three players, Alan, Bobby and Colin, each drew seven letter tiles at the
+% start of a word game. The letters were placed on their racks in the order
+% in which they were drawn. The racks are shown in the diagram with columns
+% numbered 1 to 7. From the clues given below, can you work out
+% the letters on each player's rack?
+%
+%
+% Clues
+% 
+% 1. Colin, who started the game off, was able to lay out the word
+% WAFER; his two remaining tiles both bore vowels.
+%
+%
+% 2. One vertical column in the diagram read LMU from top to bottom.
+% 
+% 3. Alan dreq both a Q and a Z.
+%
+%
+% 4. Bobby's three vowels were all in even-numbered positions on his rack;
+% the first letter he drew from the bag was a C.
+%
+% 
+% 5. Alan's E, which was the last letter on his
+% rack, had a consonant as its immediate neighbour.
+%
+%
+% 6. The letter (in Colin's) below Bobby's E was the same as the one three to the right
+% of it on his rack.
+
+%
+% 
+% 7. An N was immediately beneath one of the Es; the letter two to the left
+% of this N was an R.
+% 
+% 8. The W has two vowels in the spaces above it on the diagram.
+%
+%
+% 9. The horizontal row which contained the adjacent pair AE began with O.
+	
+%
+% 
+% 10. An S was two to the left of an A which had a P immediately to its right.
+%
+% 
+% 11. Alan's rack contained two consecutive letters of the alphabet in correct
+% order.	(Hint remember the name predicate)
+%
+% 
+% 12. There was at least one I drawn, but it was not in the same column
+% as the Q.
+%
+% 
+% 13. The first letter on Colin's rack could also be seen on Bobby's.
+% 
+% 
+% 14. Each player drew just one E.
+%
+% 15. No vertical column contained the same letter repeated.
+%
+%
+% 		    1	    2       3       4       5       6       7
+% 		---------------------------------------------------------
+% 	Alan:	|	|	|	|	|	|	|	|
+% 		|	|	|	|	|	|	|	|
+% 		---------------------------------------------------------
+% 	Bobby:	|	|	|	|	|	|	|	|
+% 		|	|	|	|	|	|	|	|
+% 		---------------------------------------------------------
+% 	Colin:	|	|	|	|	|	|	|	|
+% 		|	|	|	|	|	|	|	|
+% 		--------------------------------------------------------- 
+% 
+vowel(a).
+vowel(e).
+vowel(i).
+vowel(o).
+vowel(u).
+

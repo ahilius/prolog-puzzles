@@ -1,0 +1,44 @@
+%		H O M E W A R D   B O U N D
+%		___________________________
+%
+% 
+%Logic Problems Issue 24 page 28
+%
+%Five friends who each live in one of five nearby towns met in the city
+%for a meal. In the central bus station on the way home, each queued
+%at a different bay in the same row. From the clues given below, can you
+%work out at which bay each woman waited for her bus, name of the town
+%where she lives and through which her bus would pass, and work out
+%the terminus destination which would appear on the destination board
+%of each bus.
+%
+%Clues:
+%1.  Emma's bus, which bore the name Market Dodbury on its destination
+%    board, pulled in at the bay behind the one for the bus which
+%    goes through Milburn.
+%2.  The bus for Gunchester, which goes via Fretwell, starts from
+%    one of the odd-numbered bays; it is not the bus which Marion caught.
+%3.  Sylvia queued at bay number 4.
+%4.  Joan's home is in the town of Swabsfield; the ultimate destination
+%    of the bus which goes through her town is not Bentworth.
+%5.  One woman waited for the Westlet bus at bay number 3.
+%6.  Margaret's bus did not leave from bay 1, which is not the starting
+%    point for the bus to Wilborough, whose route does not take it through
+%    Duggleby.
+%
+%    Names: Emma, Joan, Margaret, Marion, Sylvia
+%    Destinations: Benworth, Dunton, Gunchester, Market Dodbury, Wilborough
+%    Towns: Duggleby, Fretwell, Milburn, Swansfield, Westley
+%
+%                           <---------- Direction of approach of buses
+%
+%                   Bay 1      Bay 2      Bay 3      Bay 4      Bay 5
+%                |__________|__________|__________|__________|__________|
+%           Name |          |          |          |          |          |
+%                |__________|__________|__________|__________|__________|
+%    Destination |          |          |          |          |          |
+%                |__________|__________|__________|__________|__________|
+%           Town |          |          |          |          |          |
+%                |__________|__________|__________|__________|__________|
+%
+%

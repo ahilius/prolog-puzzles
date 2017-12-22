@@ -1,0 +1,51 @@
+% Photo-Fit
+% 
+% Logic Problems, Issue 18, page 14.
+% 
+% Young Jamie was looking through the family photo album.  On one page were six 
+% snapshots of various relatives taken during their lasts year's holiday.  
+% From the clues given below, can you fill in the full details of each photo, 
+% namely then name and relationship to Jamie of each person pictures, and the 
+% typical holiday activity each was including in at the 
+% time the snap was taken?
+% 
+% Activities:	dancing, drinking, playing tennis, riding, skiing, sleeping.
+% Names:	Gary, George, Jayne, Mary, Sarah, Tom.
+% Relationships:	aunt, brother, cousin, cousin, sister, uncle
+% 
+% Layout:
+%                 +---------+---------+---------+
+% Top Row	      | Photo 1 | Photo 2 | Photo 3 |
+%                 |---------+---------+---------|
+% Bottom Row	| Photo 4 | Photo 5 | Photo 6 |
+%                 +---------+---------+---------+
+%
+% 1. Mary's picture is between the sleeping relation and Jamie's uncle
+%
+% 2. Jamie's sister's picture is below that of the skier
+%
+% 3. The snap of George is immediately to the right of the one picturing 
+%    Jamie's aunt, which has an even number on the diagram.
+%
+% 4. Cousin Jayne's photo is on the bottom row.
+%
+% 5. Sarah's picture is an action-shot of her playing tennis.
+%
+% 6. Jamie's brother's photo is in photo 6; his name is not Tom.
+%
+% 7. Gary's photo is next to that of the pony-rider.
+%
+% 8. Jamie's uncle's photo is immediately to the left of the dancer.
+%
+% 9. Somebody is photographed drinking.
+%
+% 10. Remember that there are 2 cousins.
+%
+male(gary).
+male(george).
+male(tom).
+%
+female(jayne).
+female(mary).
+female(sarah).
+%

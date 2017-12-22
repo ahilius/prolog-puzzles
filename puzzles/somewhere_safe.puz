@@ -1,0 +1,31 @@
+%             S O M E W H E R E   S A F E
+%             ___________________________
+%
+% Logic Problems Issue 16 page 21
+%
+% The diagram represents a typical all-purpose chest of drawers filled with
+% a variety of small household objects. From the clues given below, can you
+% work out in which drawer each of the items is?
+%
+%  +----------------------------------------------------+
+%  |                                                    |
+%  |  +-------------------+     +-------------------+   |
+%  |  |        [1]        |     |        [4]        |   |
+%  |  +-------------------+     +-------------------+   |
+%  |                                                    |
+%  |  +-------------------+     +-------------------+   |
+%  |  |        [2]        |     |        [5]        |   |
+%  |  +-------------------+     +-------------------+   |
+%  |                                                    |
+%  |  +-------------------+     +-------------------+   |
+%  |  |        [3]        |     |        [6]        |   |
+%  |  +-------------------+     +-------------------+   |
+%  |                                                    |
+%  +----------------------------------------------------+
+%
+% Clues:
+% 1. The stationery is in a left-hand drawer.
+% 2. The playing-cards are immediately above the table-mats.
+% 3. The fish knives are in an odd-numbered drawer and the pins and needles
+%    are immediately below them.
+% 4. The photos are not in a top drawer.

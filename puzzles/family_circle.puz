@@ -1,0 +1,49 @@
+%                  Family Circle
+%
+% Logic Problems Issue 10 page 10
+% 
+% The Spredditt family sat down to tea at their circular table. 
+% From the clues given below, can you discover who sat in which position, 
+% how old each is and what spread each chose to use on his or her bread?
+%
+% Clues:
+% 1. The 12-year old sat between Pam and the peanut-butter fanatic, 
+%    who sat directly facing his father.
+%
+% 2. The boy who likes raspberry jam sat diametrically opposite the person
+%    who prefers marmalade.
+%
+% 3. Sam is not 14, though one of his neighbors at the table is 44.
+%
+% 4. Gill, who is 16, was sitting next to her mother, who likes honey 
+%    and whose seat number on the plan is three less than that of 
+%    the shrimp-paste fancier.
+%
+% 5. Father sat in seat 1.
+%
+% Family:  Father, Mother, Bill, Gill, Pam, Sam
+% Ages:    12, 14, 16, 18, 43, 44
+% Spreads: Blackcurrant jam, honey, marmalade, peanut butter, 
+%          raspberry jam, shrimp-paste
+%
+%               Person:_______________
+%               Age:   _______________
+%               Spread:_______________
+%                             1
+%
+%   _____________                         _______________
+%   _____________ 6                     2 _______________
+%   _____________                         _______________
+%
+%
+%   _____________                         _______________
+%   _____________ 5                       _______________
+%   _____________                       3 _______________
+%
+%                             4
+%                      _______________
+%                      _______________
+%                      _______________
+%
+%
+

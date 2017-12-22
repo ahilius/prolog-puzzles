@@ -1,0 +1,29 @@
+% 			Hunting Dogs
+% 
+% Logic Problem Issue 20 page 19
+% 
+% Five friends were doing a Word Search puzzle together.  The subject 
+% of the puzzle was various breeds of dog.  From the clues given below, 
+% can you work out which word each person discovered, in which order 
+% they were found and in which direction within the grid each word ran?
+% 
+% 1.	The fourth word to be found ran diagonally.
+% 
+% 2.	Carleen's word was not 'Retriever' or 'Spaniel'; it was not the 
+% second word to be found, which did not read downwards.
+% 
+% 3.	'Husky' was the word found immediately after the one reading 
+% downwards.
+% 
+% 4.	The first word seen was 'retriever', which did not read upwards.
+% 
+% 5.	The third word was spotted by Eileen; it was not 'spaniel'.
+% 
+% 6.	Darlene had found 'dachshund' before Marlene saw her word, 
+% which ran in a normal horizontal forward direction.
+% 
+% 7.	Arleen also found a word.
+% 
+% 8.	Somebody found 'Labrador'.
+% 
+% 9.	One of the words ran Horizontally backwards.

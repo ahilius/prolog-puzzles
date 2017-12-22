@@ -1,0 +1,29 @@
+%		D R E S S   S T R E S S
+%		_______________________
+%
+% Logic Problems Issue 16 page 33
+%
+%Faced with a number of things to do, Sid becomes quite agitated about the order
+%in which to do them. he endures this mental turmoil every morning while dressing.
+%Having put on his shirt and trousers without stress, he then has six choices
+%for his next operation. From the clues givenbelow, can you work out in what
+%order Sid performed these tasks last Monday and Tuesday?
+%
+%Clues:
+%1. He put on his shoes immediately after his tie on Monday, but immediately
+%   before it on Tuesday.
+%2. Doing up his cuffs had an even-numbered position on Monday, but an odd-
+%   numbered one on Tuesday.
+%3. Sid opened the curtains at the same point on Monday as he put on his watch
+%   on Tuesday and at the same point on Tuesday as he combed his hair on Monday.
+%4. He put on his tie on Monday at the same point as he did up his cuffs on
+%   Tuesday; by this stage on Monday, he had just finished combing his hair.
+%5. He put on his tie on Tuesday at the same point as he put on his watch on
+%   Monday; the latter operation came earlier than combing his hair.
+%
+%                1st     2nd     3rd     4th     5th     6th  
+%   -----------------------------------------------------------
+%   | Monday  |       |       |       |       |       |       |
+%   -----------------------------------------------------------
+%   | Tuesday |       |       |       |       |       |       |
+%   -----------------------------------------------------------

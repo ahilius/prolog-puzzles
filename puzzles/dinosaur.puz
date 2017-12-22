@@ -1,0 +1,34 @@
+% 			One for the Pot
+% 
+% Logic Problem Issue 17 Page 27
+% 
+% Our five Neolithic acquaintances each enlisted the services of an 
+% expert tracker on a hunting expedition.  From the clues given below, 
+% can you name each man's tracker-companion. say which species 
+% each pair chose to hunt, and how many they brought back home for 
+% the stewpot?
+% 
+% Hunter:	Agg, Egg, Igg, Ogg, Ugg
+% Trackers:	Figg, Jigg, Pigg, Rigg, Wigg
+% Caught:	8, 12, 17, 18, 23
+% 
+% 1.	Igg and Figg came home from their expedition with fewer animals 
+% than the mammoth hunters, though they did manage to catch more 
+% than ten.
+% 
+% 2.	Wigg helped in the brontosaurus hunt.
+% 
+% 3.	Agg and his tracker, who was not Jigg, took twelve animals home 
+% to their wives.
+% 
+% 4.	Egg hunted pterodactyls.
+% 
+% 5.	Seventeen tyrannosaurus were caught by one pair of hunters.
+% 
+% 6.	Rigg and his hunter had a bag of eighteen animals, which is 
+% more than were caught by Ogg and his companion, who did not 
+% chase the triceratops.
+% 
+% 7.	Ugg did not take part in the most successful expedition.
+% 
+% 8.	Pigg was a tracker.
